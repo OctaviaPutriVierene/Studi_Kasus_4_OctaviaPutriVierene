@@ -1,1 +1,5 @@
-# Studi_Kasus_4_OctaviaPutriVierene
+Nama: Octavia Putri Vierene<br>
+Nim: 012<br>
+Tugas studi kasus 4<br>
+
+Penjelasan:<br>
